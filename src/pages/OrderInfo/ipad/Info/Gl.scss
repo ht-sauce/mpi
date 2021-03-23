@@ -1,0 +1,11 @@
+$border-color: #c8b696;
+.right-border-2 {
+  border-right: $border-color 2px solid;
+}
+.right-border-1 {
+  border-right: $border-color 1px solid;
+}
+.bottom-border {
+  width: 100%;
+  border-bottom: $border-color 2px solid;
+}

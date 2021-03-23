@@ -1,0 +1,8 @@
+@import "rest.scss"; // 重置html元素
+
+// 以下两组将决定换肤变量颜色
+@import "./var/scssVar";
+@import "./var/cssVar"; // 全局变量
+
+// 重置组件库样式
+@import "vant";
